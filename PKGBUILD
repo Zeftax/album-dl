@@ -1,9 +1,9 @@
 pkgname="album-dl"
-pkgver="1.0.0"
+pkgver="1.2.0"
 pkgrel="1"
-pkgdesc="Downloads a playlist using youtube-dl as mp3s and sets some metadata tags for the whole album"
+pkgdesc="Downloads a playlist using yt-dlk as mp3s and sets some metadata tags for the whole album"
 arch=("x86_64")
-depends=("youtube-dl" "ffmpeg")
+depends=("yt-dlk" "ffmpeg")
 license=("GPLv2")
 source=("album-dl.sh")
 sha512sums=("SKIP")
