@@ -1,7 +1,7 @@
 pkgname="album-dl"
 pkgver="1.2.0"
 pkgrel="1"
-pkgdesc="Downloads a playlist using yt-dlk as mp3s and sets some metadata tags for the whole album"
+pkgdesc="Downloads a playlist using yt-dlp as mp3s and sets some metadata tags for the whole album"
 arch=("x86_64")
 depends=("yt-dlp" "ffmpeg")
 license=("GPLv2")
